@@ -1,0 +1,25 @@
+name: KitpvpFN
+main: me.itsgwnmikai.main.Main
+version: 0.3
+author: derpmikai
+commands:
+    kit:
+        description: This is a staff only command.
+    help:
+        description: help
+    setrank:
+        description: setrank
+    spawn:
+        description: spawn
+    setspawn:
+        description: setspawn
+    announce:
+        description: announce
+    shutdown:
+        description: shutdown
+    flamekitpvp:
+        description: flamekitpvp
+    hub:
+        description: hub
+    skyblock:
+        description: Skyblock
